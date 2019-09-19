@@ -1,0 +1,11 @@
+Andy Loftus is a Senior Systems Administrator at the
+National Center for Supercomputing Applications,
+which roughly translates as technology wizard focused on
+making computers do as much as possible so he doesn't have to.
+He designed the backup software for the Blue Waters supercomputer
+to ensure the safety of all data on it's dual 2 petabyte filesystems.
+He is currently using Git and Puppet to automate system deployment for the
+LSST project, an amazing new telescope high on a mountain top in Chile.
+When he's not automating computers, he can be found
+coaching volleyball, spending time with his family,
+and being an amateur brewmaster.
